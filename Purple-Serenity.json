@@ -106,7 +106,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://github.com/Mistfrostkiyo/DC/blob/main/Background.jpeg?raw=true",
+        "url": "https://raw.githubusercontent.com/Mistfrostkiyo/DC/refs/heads/main/Background.jpeg",
         "alpha": 0.4
     },
     "spec": 2
